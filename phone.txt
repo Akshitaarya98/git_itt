@@ -3,3 +3,5 @@ phone
 
 touchscreen
 gorilla-glass
+
+new phone
